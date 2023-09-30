@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/tag/jcs090218/Unity.Prefs.svg?label=release&logo=github)](https://github.com/jcs090218/Unity.Prefs/releases/latest)
 
 # Prefs
-> Retrieve ist of EditorPrefs/PlayerPrefs
+> Retrieve list of EditorPrefs/PlayerPrefs
 
 There isn't an easy way to retrieve key & value pair from EditorPrefs/PlayerPrefs.
 This tiny library help you retrieve those data!
