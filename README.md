@@ -5,6 +5,8 @@
 # Unity.Prefs
 > Retrieve ist of EditorPrefs/PlayerPrefs
 
+
+
 ## 🔨 Usage
 
 ```cs
@@ -21,6 +23,12 @@ foreach (PrefPair pair in prefs)
 ## 📌 Credits
 
 - [PlayerPrefsEditor][] by **`@sabresaurus`** - Retrieved list of `EditorPrefs`/`PlayerPrefs`
+
+## License
+
+Copyright (c) Jen-Chieh Shen. All rights reserved.
+
+See [LICENSE](./LICENSE) for details.
 
 
 [PlayerPrefsEditor]: https://github.com/sabresaurus/PlayerPrefsEditor
