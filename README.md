@@ -5,7 +5,15 @@
 # Unity.Prefs
 > Retrieve ist of EditorPrefs/PlayerPrefs
 
+There isn't an easy way to retrieve key & value pair from EditorPrefs/PlayerPrefs.
+This tiny library help you retrieve those data!
 
+*P.S. See [EditorPrefs][] and [PlayerPrefs][] for more information!*
+
+## 💾 Installation
+
+`git clone` this repository, then throw the folder `Editor` to your project
+under the `Assets` folder!
 
 ## 🔨 Usage
 
@@ -30,5 +38,8 @@ Copyright (c) Jen-Chieh Shen. All rights reserved.
 
 See [LICENSE](./LICENSE) for details.
 
+
+[EditorPrefs]: https://docs.unity3d.com/ScriptReference/EditorPrefs.html
+[PlayerPrefs]: https://docs.unity3d.com/ScriptReference/PlayerPrefs.html
 
 [PlayerPrefsEditor]: https://github.com/sabresaurus/PlayerPrefsEditor
