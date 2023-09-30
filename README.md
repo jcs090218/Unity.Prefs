@@ -2,7 +2,7 @@
 [![Unity Engine](https://img.shields.io/badge/unity-2023.1.11f1-black.svg?style=flat&logo=unity)](https://unity3d.com/get-unity/download/archive)
 [![Release](https://img.shields.io/github/tag/jcs090218/Unity.Prefs.svg?label=release&logo=github)](https://github.com/jcs090218/Unity.Prefs/releases/latest)
 
-# Unity.Prefs
+# Prefs
 > Retrieve ist of EditorPrefs/PlayerPrefs
 
 There isn't an easy way to retrieve key & value pair from EditorPrefs/PlayerPrefs.
