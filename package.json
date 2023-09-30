@@ -1,0 +1,11 @@
+{
+  "name": "com.jcs090218.prefs",
+  "version": "0.1.0",
+  "displayName": "Prefs",
+  "description": "Retrieve list of EditorPrefs/PlayerPrefs",
+  "unity": "2019.4",
+  "author": {
+    "name": "jcs090218",
+    "url": "https://github.com/jcs090218/Unity.Prefs"
+  }
+}
