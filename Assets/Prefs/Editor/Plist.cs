@@ -1,4 +1,3 @@
-#if UNITY_EDITOR
 //
 //   PlistCS Property List (plist) serialization and parsing library.
 //
@@ -965,4 +964,3 @@ namespace Sabresaurus.PlayerPrefsEditor
         }
     }
 }
-#endif

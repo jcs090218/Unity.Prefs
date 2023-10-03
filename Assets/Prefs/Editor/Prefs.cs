@@ -1,4 +1,10 @@
-#if UNITY_EDITOR
+/**
+ * Copyright (c) Jen-Chieh Shen. All rights reserved.
+ * 
+ * jcs090218@gmail.com
+ * 
+ * Credit to Sabresaurus's https://github.com/sabresaurus/PlayerPrefsEditor
+ */
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -334,4 +340,3 @@ namespace Prefs
         }
     }
 }
-#endif
