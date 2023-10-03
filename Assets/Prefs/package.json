@@ -1,6 +1,6 @@
 {
   "name": "com.jcs090218.prefs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Prefs",
   "description": "Retrieve list of EditorPrefs/PlayerPrefs",
   "unity": "2019.4",
